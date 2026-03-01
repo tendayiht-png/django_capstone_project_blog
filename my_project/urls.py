@@ -16,7 +16,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from django_math_land_project import views as index_views
+from django_capstone_project_blog import views as index_views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
