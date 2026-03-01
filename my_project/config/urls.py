@@ -21,7 +21,7 @@ from django.urls import path, include
 from .. import views
 from hello_world import views as index_views
 
-from django_math_land_project.my_project import views as index_views
+from django_capstone_project_blog.my_project import views as index_views
 
 urlpatterns = [
     path('hello/', index_views.index, name='index'),
