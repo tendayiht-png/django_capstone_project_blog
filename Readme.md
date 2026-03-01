@@ -1,0 +1,1 @@
+# django_capstone_project_blog

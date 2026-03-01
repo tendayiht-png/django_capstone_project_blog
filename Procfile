@@ -1,0 +1,1 @@
+web: gunicorn django_math_land_project.wsgi
