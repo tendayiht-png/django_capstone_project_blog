@@ -28,8 +28,7 @@ urlpatterns = [
     path('add/', views.add_numbers, name='add_numbers'),
     path('admin/', admin.site.urls),
     path('save-score/', views.save_score, name='save_score'),
-    path('hello/', views.math_game, name='math_game'),
-]
+    ]
 
 
 
