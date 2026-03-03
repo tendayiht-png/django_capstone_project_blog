@@ -1,1 +1,1 @@
-web: gunicorn django_capstone_project_blog.wsgi
+web: gunicorn my_project.wsgi
